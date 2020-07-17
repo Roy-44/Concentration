@@ -1,0 +1,9 @@
+C:\Users\Roy\Documents\Projects\C#\Concentration\B20_Ex02\obj\Debug\B20_Ex02.csprojAssemblyReference.cache
+C:\Users\Roy\Documents\Projects\C#\Concentration\B20_Ex02\obj\Debug\B20_Ex02.csproj.CoreCompileInputs.cache
+C:\Users\Roy\Documents\Projects\C#\Concentration\B20_Ex02\bin\Debug\B20_Ex02.exe.config
+C:\Users\Roy\Documents\Projects\C#\Concentration\B20_Ex02\bin\Debug\B20_Ex02.exe
+C:\Users\Roy\Documents\Projects\C#\Concentration\B20_Ex02\bin\Debug\B20_Ex02.pdb
+C:\Users\Roy\Documents\Projects\C#\Concentration\B20_Ex02\bin\Debug\Ex02.ConsoleUtils.dll
+C:\Users\Roy\Documents\Projects\C#\Concentration\B20_Ex02\obj\Debug\B20_Ex02.csproj.CopyComplete
+C:\Users\Roy\Documents\Projects\C#\Concentration\B20_Ex02\obj\Debug\B20_Ex02.exe
+C:\Users\Roy\Documents\Projects\C#\Concentration\B20_Ex02\obj\Debug\B20_Ex02.pdb
